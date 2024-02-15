@@ -1,4 +1,6 @@
 # pip install -r requirements.txt
+keras
+tensorflow
 
 # Base ----------------------------------------
 pandas>=1.1.4
